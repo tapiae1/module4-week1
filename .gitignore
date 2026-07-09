@@ -1,0 +1,19 @@
+# Build results
+bin/
+obj/
+out/
+
+# Rider / Visual Studio / VS Code
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# User-specific secrets
+appsettings.Development.json
+appsettings.*.local.json
+*.env

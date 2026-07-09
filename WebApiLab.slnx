@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/WebApiLAb.API/">
+    <Project Path="WebApiLAb.API/WebApiLab.API.csproj" />
+  </Folder>
+  <Project Path="WebApiLab.Console/WebApiLab.Console.csproj" />
+</Solution>
