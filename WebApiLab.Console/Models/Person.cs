@@ -1,2 +1,2 @@
 namespace WebApiLab.Console.Models;
-public record Person(string name, string Language, string Id, string Bio, decimal Version); 
+public record Person(string Name, string Language, string Id, string Bio, decimal Version); 
